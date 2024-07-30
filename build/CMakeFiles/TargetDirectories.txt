@@ -1,0 +1,11 @@
+/root/colcon_ws/src/orb_slam3_ros2_wrapper/build/CMakeFiles/uninstall.dir
+/root/colcon_ws/src/orb_slam3_ros2_wrapper/build/CMakeFiles/orb_slam3_ros2_wrapper_uninstall.dir
+/root/colcon_ws/src/orb_slam3_ros2_wrapper/build/CMakeFiles/rgbd.dir
+/root/colcon_ws/src/orb_slam3_ros2_wrapper/build/CMakeFiles/mono.dir
+/root/colcon_ws/src/orb_slam3_ros2_wrapper/build/CMakeFiles/test.dir
+/root/colcon_ws/src/orb_slam3_ros2_wrapper/build/CMakeFiles/edit_cache.dir
+/root/colcon_ws/src/orb_slam3_ros2_wrapper/build/CMakeFiles/rebuild_cache.dir
+/root/colcon_ws/src/orb_slam3_ros2_wrapper/build/CMakeFiles/list_install_components.dir
+/root/colcon_ws/src/orb_slam3_ros2_wrapper/build/CMakeFiles/install.dir
+/root/colcon_ws/src/orb_slam3_ros2_wrapper/build/CMakeFiles/install/local.dir
+/root/colcon_ws/src/orb_slam3_ros2_wrapper/build/CMakeFiles/install/strip.dir

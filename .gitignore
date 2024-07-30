@@ -1,0 +1,31 @@
+# build
+/build/
+/bin/
+/obj/
+/out/
+
+# tmp
+*.tmp
+*.log
+*.swp
+*.bak
+*~
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Eclipse
+.metadata/
+*.tmp
+*.bak
+*.swp
